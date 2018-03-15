@@ -1,13 +1,35 @@
 html,body,#intro{
     height: 100%;
+    font-family: 'Roboto', sans-serif;
 }
 
 #intro{
 
-    background: url("/img/photo.jpg")no-repeat center center fixed;
+    background: url("/img/Revols.jpg")no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
 }
-
+.nav-link,.navbar-brand{
+    color: white;
+}
+.nav-link:hover{
+    color: #bdbdbd;
+}
+.navbar-brand:hover{
+   color: #bdbdbd; 
+}
+#cent{
+    color: white;
+    margin-top: 30vh;
+    text-align: center;
+    
+    
+}
+#bold{
+    font-weight:bolder;
+}
+h2{
+    line-height: 2;
+}
