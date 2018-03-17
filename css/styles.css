@@ -27,7 +27,8 @@ html,body,#intro{
 }
 #bold{
     font-weight:bolder;
-}
-h2{
     line-height: 2;
+}
+#round{
+    border-radius: 50%;
 }
