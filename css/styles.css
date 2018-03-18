@@ -35,7 +35,18 @@ html,body,#intro{
     color: white;
 }
 #sold{
-    border: 2px solid black;
+    border: 1px solid black;
     border-radius: 50%;
+    width: 60px;
+    text-align: center;
+}
+.wrapper{
+    display: flex;
+}
+#btw{
     
+    align-self: center;
+    background-color: #00b0ff;
+    color: white;
+   
 }
