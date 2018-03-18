@@ -34,3 +34,8 @@ html,body,#intro{
     background-color: #00b0ff;
     color: white;
 }
+#sold{
+    border: 2px solid black;
+    border-radius: 50%;
+    
+}
